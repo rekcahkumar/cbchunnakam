@@ -1,4 +1,4 @@
 <?php
-header('Location: winsoft.html');
+header('Location:cb.html');
 exit
 ?>
